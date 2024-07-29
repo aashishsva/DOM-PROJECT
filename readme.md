@@ -9,7 +9,7 @@ This project demonstrates how to manipulate a DOM element using JavaScript. The 
 
 ### Hosted Version
 
-You can view the live version of the project [here](#). (Replace `#` with the actual hosted link)
+You can view the live version of the project [here]([#](https://aashishsva.github.io/DOM-PROJECT/)). 
 
 ## Project Details
 
